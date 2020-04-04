@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Tricia Seow"
 title_separator          : "-"
 name                     : &name "Tricia"
-description              : &description "PhD Candidate at Trinity College Dublin"
+description              : &description "Tricia's personal academic webpage"
 url                      : "https://seowxft.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seowxft/seowxft.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Tricia"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.JPG"
+  bio              : "PhD Candidate"
   location         : "Ireland"
   employer         : "Trinity College Dublin"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=mlgNIfYAAAAJ"
-  email            : "seowxft [at] gmail [dot] com"
+  email            : "seowxft@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
