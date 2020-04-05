@@ -11,7 +11,7 @@ redirect_from:
 
 [Full CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)
 
-##Education & Experience
+## Education & Experience
 <strong>2017 - present</strong>: Ph.D in Psychology
 * School of Psychology, Trinity College Dublin, Ireland
 * <i>Thesis title</i>: The neurocognitive correlates of compulsivity
