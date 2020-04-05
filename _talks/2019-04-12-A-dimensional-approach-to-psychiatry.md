@@ -2,7 +2,7 @@
 title: "A dimensional approach to psychiatry"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2019-04-12-A-dimensional-approach-to-psychiatry
 venue: "Max Planck Institute for Biological Cybernetics"
 date: 2019-04-12
 location: "Tübingen, Germany"
