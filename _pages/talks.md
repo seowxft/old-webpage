@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
