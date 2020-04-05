@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)
+[Download Tricia's CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)
 
 ## Education & Experience
 <strong>2017 - present</strong>: Ph.D in Psychology
