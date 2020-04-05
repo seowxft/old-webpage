@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2016-07-14-Stimulus-novelty-energizes-actions-in-the-absence-of-explicit-reward
 date: 2016-07-14
 venue: 'PLoS One'
-citation: 'Koster, R., <strong>Seow, T. X.</strong>, Dolan, R. J., & Düzel, E. (2016). <i>PloS one</i>, <strong>11</strong>(7).'
+citation: 'Koster, R., <strong>Seow, T. X.</strong>, Dolan, R. J., & Düzel, E. (2016). Stimulus novelty energizes actions in the absence of explicit reward. <i>PloS one</i>, <strong>11</strong>(7).'
 ---
 
 [Doi](https://doi.org/10.1371/journal.pone.0159120) / [Pdf](http://seowxft.github.io/files/2016-07-14-Stimulus-novelty-energizes-actions-in-the-absence-of-explicit-reward.pdf)

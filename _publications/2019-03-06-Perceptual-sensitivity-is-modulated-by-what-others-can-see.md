@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019-03-06-Perceptual-sensitivity-is-modulated-by-what-others-can-see
 date: 2019-03-06
 venue: 'Attention, Perception, & Psychophysics'
-citation: '<strong>Seow, T.</strong> & Fleming, S. M. (2019). <i>Attention, Perception, & Psychophysics</i>, <strong>81</strong>, 1979–1990.'
+citation: '<strong>Seow, T.</strong> & Fleming, S. M. (2019). Perceptual sensitivity is modulated by what others can see. <i>Attention, Perception, & Psychophysics</i>, <strong>81</strong>, 1979–1990.'
 ---
 
 

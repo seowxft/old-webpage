@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance
 date: 2018-10-15
 venue: 'Biological Psychiatry'
-citation: 'Rouault, M.*, <strong>Seow, T.</strong>*, Gillan, C. M., & Fleming, S. M. (2018). <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.'
+citation: 'Rouault, M.*, <strong>Seow, T.</strong>*, Gillan, C. M., & Fleming, S. M. (2018). Psychiatric symptom dimensions are associated with dissociable shifts in metacognition but not task performance. <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.'
 ---
 
 [Doi](https://doi.org/10.1016/j.biopsych.2017.12.017) / [Pdf](http://seowxft.github.io/files/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance.pdf) / [Supplementary Material](http://seowxft.github.io/files/2018-10-15-Psychiatric-symptom-Supplementary.pdf) / [Data & Code](https://github.com/metacoglab/RouaultSeowGillanFleming)

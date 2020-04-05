@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2020-02-03-The-confidence-database
 date: 2020-02-03
 venue: 'Nature Human Behaviour'
-citation: 'Rahnev, D., et al...includ. <strong>Seow, X. F. T.</strong> (2020). <i>Nature Human Behaviour</i>, <strong>4</strong>, 317–325.'
+citation: 'Rahnev, D., et al...includ. <strong>Seow, X. F. T.</strong> (2020). The confidence database. <i>Nature Human Behaviour</i>, <strong>4</strong>, 317–325.'
 ---
 
 [Doi](https://doi.org/10.1038/s41562-019-0813-1) / [Pdf](http://seowxft.github.io/files/2020-02-03-The-confidence-database.pdf) / [Data & Code](https://osf.io/s46pr/)

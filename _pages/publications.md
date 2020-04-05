@@ -21,7 +21,7 @@ Rahnev, D., et al...includ. <strong>Seow, X. F. T.</strong> <i>Nature Human Beha
 
 ## 2018
 <b>[Psychiatric symptom dimensions are associated with dissociable shifts in metacognition but not task performance](http://seowxft.github.io/publications/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance)</b><br>
-Rouault, M.*, <strong>Seow, T.</strong>*, Gillan, C. M., & Fleming, S. M. <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.
+Rouault, M.\*, <strong>Seow, T.</strong>\*, Gillan, C. M., & Fleming, S. M. <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.
 
 ## 2016
 <b>[Stimulus novelty energizes actions in the absence of explicit reward](http://seowxft.github.io/publications/2016-07-14-Stimulus-novelty-energizes-actions-in-the-absence-of-explicit-reward)</b><br>

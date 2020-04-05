@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Trica XF Seow"
+title                    : "Tricia XF Seow"
 title_separator          : "-"
 name                     : &name "Seow"
 description              : &description "Tricia's personal academic webpage"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "tricia seow"
+  name             : "Tricia（萧幸芳)"
   avatar           : "profile.JPG"
   bio              : "PhD Candidate, Compuational Psychiatry, Trinity College Dublin"
   location         : "Singaporean"
