@@ -2,12 +2,12 @@
 title: "Psychiatric symptom dimensions are associated with dissociable shifts in metacognition but not task performance"
 collection: publications
 permalink: /publication/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance
-excerpt: 'XXXXXXXXXX'
 date: 2010-10-01
 venue: 'Biological Psychiatry'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Rouault, M.*, Seow, T.*, Gillan, C. M., & Fleming, S. M. (2018). &quot;Psychiatric symptom dimensions are associated with dissociable shifts in metacognition but not task performance.&quot; <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.'
+citation: 'Rouault, M.*, Seow, T.*, Gillan, C.M., & Fleming, S.M. (2018). <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.'
 ---
-XXXXXXXXXXXXXXXXXXXXXXXXXX
 
-[Pdf](http://seowxft.github.io/files/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance.pdf)/[Supplementary](http://seowxft.github.io/files/2018-10-15-Psychiatric-symptom-Supplementary.pdf)/[Data & Code](https://github.com/metacoglab/RouaultSeowGillanFleming)
+[Doi](https://doi.org/10.1016/j.biopsych.2017.12.017) / [Pdf](http://seowxft.github.io/files/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance.pdf) / [Supplementary Material](http://seowxft.github.io/files/2018-10-15-Psychiatric-symptom-Supplementary.pdf) / [Data & Code](https://github.com/metacoglab/RouaultSeowGillanFleming)
+
+## Abstract
+Distortions in metacognition—the ability to reflect on and control other cognitive processes—are thought to be characteristic of poor mental health. However, it remains unknown whether such shifts in self-evaluation are due to specific alterations in metacognition and/or a downstream consequence of changes in decision-making processes. Using perceptual decision making as a model system, we employed a computational psychiatry approach to relate parameters governing both decision formation and metacognitive evaluation to self-reported transdiagnostic symptom dimensions in a large general population sample (N = 995). Variability in psychopathology was unrelated to either speed or accuracy of decision formation. In contrast, leveraging a dimensional approach, we revealed independent relationships between psychopathology and metacognition: a symptom dimension related to anxiety and depression was associated with lower confidence and heightened metacognitive efficiency, whereas a dimension characterizing compulsive behaviour and intrusive thoughts was associated with higher confidence and lower metacognitive efficiency. Furthermore, we obtained a robust double dissociation—whereas psychiatric symptoms predicted changes in metacognition but not decision performance, age predicted changes in decision performance but not metacognition. Our findings indicate a specific and pervasive link between metacognition and mental health. Our study bridges a gap between an emerging neuroscience of decision making and an understanding of metacognitive alterations in psychopathology.

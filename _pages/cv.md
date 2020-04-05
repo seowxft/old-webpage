@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,61 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education & Experience
-======
-* 2017 - present: Ph.D in Psychology
-  * School of Psychology, Trinity College Dublin, Ireland
-  * Thesis title: The neurocogitive correlates of compulsivity
-  * Supervisor: Dr Claire Gillan
+[Full CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)
 
-* 2015 - 2016: Research Assistant
-  * Wellcome Trust Centre for Neuroimaging, University College London, United Kingdom
-  * Project area: Metacognition and visual consciousness
-  * Supervisor: Dr Stephen Fleming
+##Education & Experience
+<strong>2017 - present</strong>: Ph.D in Psychology
+* School of Psychology, Trinity College Dublin, Ireland
+* <i>Thesis title</i>: The neurocognitive correlates of compulsivity
+* <i>Supervisor</i>: [Dr Claire Gillan](https://gillanlab.com/)
 
-* 2011 - 2015: Msci. in Neuroscience
-  * Wellcome Trust Centre for Neuroimaging, University College London, United Kingdom
-  * Thesis title: Choice Dynamics with MEG  
-  * Supervisor: Dr Laurence Hunt
+<strong>2015 - 2016</strong>: Research Assistant
+* Wellcome Trust Centre for Neuroimaging, University College London, United Kingdom
+* <i>Project area</i>: Metacognition and visual consciousness
+* <i>Supervisor</i>: [Dr Stephen Fleming](http://metacoglab.org/)
 
-* 2013 - 2014: Msci. in Neuroscience
-  * Institute of Cognitive Neuroscience, University College London, United Kingdom
-  * Project area: Emotion and decision Making
-  * Supervisors: Dr Raphael Köster & Professor Emrah Düzel
+<strong>2011 - 2015</strong>: Msci. in Neuroscience
+* Wellcome Trust Centre for Neuroimaging, University College London, United Kingdom
+* <i>Thesis title</i>: Choice Dynamics with MEG  
+* <i>Supervisor</i>: [Dr Laurence Hunt](https://www.huntlab.co.uk/)
 
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-Honours & Awards
-======
-* 2019: Guarantors of Brain Travel Award for BAP 2019
-* 2019: Trinity College Travel Grant for SOBP 2019
-* 2017: Guarantors of Brain Travel Award for SFN 2017  
-* 2017: TCD Postgraduate Ussher Fellowship
-* 2015: The Dean’s List – UCL Faculty of Life Sciences (Year Four)
-* 2014: 2015 Burnstock Prize (Best overall Year Three performance)  
-* 2014: The Dean’s List – UCL Faculty of Life Sciences (Year Three)
-* 2013: The Dean’s List – UCL Faculty of Life Sciences (Year Two)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+<strong>2013 - 2014</strong>: Research Assistant
+* Institute of Cognitive Neuroscience, University College London, United Kingdom
+* <i>Project area</i>: Emotion and decision Making
+* <i>Supervisors</i>: [Dr Raphael Köster](https://scholar.google.de/citations?user=eEGGCiUAAAAJ) & [Professor Emrah Düzel](https://www.iknd.ovgu.de/)

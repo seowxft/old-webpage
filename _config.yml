@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Tricia Seow"
+title                    : "Trica XF Seow"
 title_separator          : "-"
-name                     : &name "Tricia"
+name                     : &name "Seow"
 description              : &description "Tricia's personal academic webpage"
 url                      : "https://seowxft.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tricia"
+  name             : "tricia seow"
   avatar           : "profile.JPG"
-  bio              : "PhD Candidate"
-  location         : "Ireland"
-  employer         : "Trinity College Dublin"
+  bio              : "PhD Candidate, Compuational Psychiatry, Trinity College Dublin"
+  location         : "Singaporean"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=mlgNIfYAAAAJ"
   email            : "seowxft@gmail.com"
