@@ -1,10 +1,10 @@
 ---
 title: "A dimensional study of error related negativity ERN and self reported psychiatric symptoms"
 collection: publications
-permalink: /publication/2019-11-22-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms
+permalink: /publications/2019-11-22-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms
 date: 2019-11-22
 venue: 'bioRxiv'
-citation: '<strong>Seow, X.F.T.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., McDonough, M., & Gillan., C.M. (2019). <i>bioRxiv</i>, 732594.'
+citation: '<strong>Seow, X. F. T.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., McDonough, M., & Gillan., C. M. (2019). <i>bioRxiv</i>, 732594.'
 ---
 
 [Doi](https://doi.org/10.1101/732594) / [Preprint](http://seowxft.github.io/files/2019-11-22-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms) / [Supplementary Material](http://seowxft.github.io/files/2019-11-22-A-dimensional-study-supplementary.pdf) / [Data & Code](https://osf.io/vjda6/)
