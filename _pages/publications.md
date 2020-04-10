@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+The manuscript, supplementary material, data and code for all papers are freely available in their respective links:
 
 ## 2020
 <b>[Transdiagnostic phenotyping reveals a host of metacognitive deficits implicated in compulsivity](http://seowxft.github.io/publications/2020-02-19-Transdiagnostic-phenotyping-reveals-a-host-of-metacognitive-deficits-implicated-in-compulsivity)</b><br>
