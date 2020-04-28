@@ -7,7 +7,8 @@ author_profile: true
 The manuscript, supplementary material, data and code for all papers are freely available in their respective links:
 
 ## 2020
-<b>Carving out new transdiagnostic dimensions for research in mental health.</b><br> C. M. Gillan and <strong>T. X.F. Seow</strong>. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (in press)
+<b>Carving out new transdiagnostic dimensions for research in mental health.</b><br>
+C. M. Gillan and <strong>T. X.F. Seow</strong>. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (in press)
 
 <b>[Transdiagnostic phenotyping reveals a host of metacognitive deficits implicated in compulsivity](http://seowxft.github.io/publications/2020-02-19-Transdiagnostic-phenotyping-reveals-a-host-of-metacognitive-deficits-implicated-in-compulsivity)</b><br>
 <strong>Seow, X. F. T.</strong> & Gillan, C. M. <i>Scientific Reports</i>, <strong>10</strong>(1), 1-11.
