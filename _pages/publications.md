@@ -8,7 +8,7 @@ The manuscript, supplementary material, data and code for all papers are freely 
 
 ## 2020
 <b>Model-based learning deficits  in compulsivity are linked to faulty representations of task structure.</b><br>
-<strong>T. X.F. Seow</strong> O'Connell, R. & Gillan, C. M. (in prep)
+<strong>T. X.F. Seow</strong>, O'Connell, R. & Gillan, C. M. (in prep)
 
 <b>Carving out new transdiagnostic dimensions for research in mental health.</b><br>
 C. M. Gillan and <strong>T. X.F. Seow</strong>. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (in press)
