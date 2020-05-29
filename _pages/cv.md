@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Download Tricia's CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)<br>
-[Download Tricia's PhD Thesis](http://seowxft.github.io/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)
+[Download Tricia's Ph.D Thesis](http://seowxft.github.io/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)
 
 ## Education & Experience
 * <strong>2017 - present</strong>: Ph.D in Psychology<br>
