@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Tricia's CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)
+[Download Tricia's CV](http://seowxft.github.io/files/CV_SeowXFT.pdf)<br>
+[Download Tricia's PhD Thesis](http://seowxft.github.io/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)
 
 ## Education & Experience
 * <strong>2017 - present</strong>: Ph.D in Psychology<br>
 School of Psychology, Trinity College Dublin, Ireland<br>
-<i>Thesis title</i>: The neurocognitive correlates of compulsivity [Download Tricia's Thesis](http://seowxft.github.io/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)<br>
+<i>Thesis title</i>: The neurocognitive correlates of compulsivity<br>
 <i>Supervisor</i>: [Dr Claire Gillan](https://gillanlab.com/)<br>
 
 * <strong>2015 - 2016</strong>: Research Assistant<br>
