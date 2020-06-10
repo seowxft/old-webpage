@@ -3,8 +3,8 @@ title: "(琅琊榜) Nirvana in Fire (TV) Fanwork Statistics Report"
 collection: Other
 permalink: /other/nirvana-in-fire-stats
 ---
-
-[Code & Data](https://github.com/seowxft/NiFAO3Scrape) to reproduce figures.
+<br>
+[Code & Data](https://github.com/seowxft/NiFAO3Scrape) are freely available to reproduce figures.
 
 <a href ="https://archiveofourown.org/tags/%E7%90%85%E7%90%8A%E6%A6%9C%20%7C%20Nirvana%20in%20Fire%20(TV)/works/">琅琊榜 | Nirvana in Fire (TV)</a> data scraped from [Archive of Our Own](https://archiveofourown.org), filtered by language = English, on <strong>8 June 2020</strong>. Only unlocked works were available for scraping.
 
