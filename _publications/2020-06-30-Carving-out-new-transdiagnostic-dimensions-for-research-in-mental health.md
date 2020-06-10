@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2020-06-30-Carving-out-new-transdiagnostic-dimensions-for-research-in-mental health
 date: 2020-06-30
 venue: 'Biological Psychiatry: Cognitive Neuroscience and Neuroimaging'
-citation: 'Gillan, C. M. & <strong>Seow, T. X.F.</strong>. (2016). Carving out new transdiagnostic dimensions for research in mental health. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>, in press.'
+citation: 'Gillan, C. M. & <strong>Seow, T. X.F.</strong> (2020). Carving out new transdiagnostic dimensions for research in mental health. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>, in press.'
 ---
 
 [Doi](https://doi.org/10.1016/j.bpsc.2020.04.013)
