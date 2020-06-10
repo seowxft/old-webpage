@@ -1,8 +1,7 @@
 ---
 title: "Nirvana in Fire (TV) Fanwork Statistics Report"
 collection: Other
-<!-- type: "Other" -->
-permalink: /other/nirvana-in-fire
+permalink: /other/nirvana-in-fire-stats
 ---
 
 ## 琅琊榜 | Nirvana in Fire (TV) Fanwork Statistics Report
