@@ -6,7 +6,7 @@ permalink: /other/nirvana-in-fire-stats
 <br>
 [Code & Data](https://github.com/seowxft/NiFAO3Scrape) are freely available to reproduce figures.
 
-<a href ="https://archiveofourown.org/tags/%E7%90%85%E7%90%8A%E6%A6%9C%20%7C%20Nirvana%20in%20Fire%20(TV)/works/">琅琊榜 | Nirvana in Fire (TV)</a> data scraped from [Archive of Our Own](https://archiveofourown.org), filtered by language = English, on <strong>8 June 2020</strong>. Only unlocked works were available for scraping.
+<a href ="https://archiveofourown.org/tags/%E7%90%85%E7%90%8A%E6%A6%9C%20%7C%20Nirvana%20in%20Fire%20(TV)/works/">琅琊榜 | Nirvana in Fire (TV)</a> data were scraped from [Archive of Our Own](https://archiveofourown.org), filtered by language = English, on <strong>8 June 2020</strong>. Only unlocked works were available for scraping.
 
 # General Stats
 <strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 11 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. In total, N = 17 works were excluded, leaving N = 879 for analysis.
@@ -15,7 +15,7 @@ permalink: /other/nirvana-in-fire-stats
   <img src="http://seowxft.github.io/files/nifFigs/Rplot01.png" alt="Fig1"/>
 </p>
 
-<strong>Fig 1.</strong> The earliest fanwork recorded on AO3 is [<i>Could have, Would have, Should have</i> by <strong>Sychronergy</strong>](https://archiveofourown.org/works/5148068), published on 5th Nov 2015. The largest number of submissions of fanwork were in December, in 2017 (N = 68), 2019 (N = 59) and 2018 (N = 54). This is likely due to NiF Exchange and Yuletide events.
+<strong>Fig 1.</strong> The earliest fanwork recorded on AO3 is [Could have, Would have, Should have](https://archiveofourown.org/works/5148068) by <strong>Sychronergy</strong>, published on 5th Nov 2015. The largest number of submissions of fanwork were in December, in 2017 (N = 68), 2019 (N = 59) and 2018 (N = 54). This is likely due to NiF Exchange and Yuletide events.
 
 <br><br>
 <p align="center">
@@ -36,14 +36,14 @@ permalink: /other/nirvana-in-fire-stats
   <img src="http://seowxft.github.io/files/nifFigs/Rplot09.png" alt="Fig4"/>
 </p>
 
-<strong>Fig 4.</strong> Majority of the fanworks are categorised as gen (N = 402). Most common pairing is male/male (N = 392).
+<strong>Fig 4.</strong> Majority of the fanworks were categorised as gen (N = 402). Most common pairings were male/male (N = 392).
 
 <br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot10.png" alt="Fig5"/>
 </p>
 
-<strong>Fig 5.</strong> Majority of the fanworks are rated as gen (N = 401).
+<strong>Fig 5.</strong> Majority of the fanworks were rated as gen (N = 401).
 
 <br><br>
 <p align="center">
