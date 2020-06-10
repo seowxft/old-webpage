@@ -8,6 +8,7 @@ permalink: /other/nirvana-in-fire-stats
 
 <a href ="https://archiveofourown.org/tags/%E7%90%85%E7%90%8A%E6%A6%9C%20%7C%20Nirvana%20in%20Fire%20(TV)/works/">琅琊榜 | Nirvana in Fire (TV)</a> data scraped from [Archive of Our Own](https://archiveofourown.org), filtered by language = English, on <strong>8 June 2020</strong>. Only unlocked works were available for scraping.
 
+# General Stats
 <strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 11 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. In total, N = 17 works were excluded, leaving N = 879 for analysis.
 
 <p align="center">
@@ -39,7 +40,7 @@ permalink: /other/nirvana-in-fire-stats
 
 <br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot010.png" alt="Fig5"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot10.png" alt="Fig5"/>
 </p>
 
 <strong>Fig 5.</strong> Majority of the fanworks are rated as gen (N = 401).
@@ -141,8 +142,11 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
 </p>
 <strong>Fig 14.</strong> The most popular tag is ‘Angst’ (N = 89).
 
+# Word Cloud
+<strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 11 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. Additionally, podfic (N = 20), fanart (N = 49) and fanvid (N = 7) were excluded as only text-based fanworks are applicable. In total, N = 93 works were excluded, leaving N = 803 for text-based analysis.
+
 <br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot15.jpg" alt="Fig15"/>
 </p>
-Fig 15. Word cloud from N = 803 fics. Most common word written is ‘jingyan’ (n = 47,095).
+<strong>Fig 15.</strong> Word cloud from N = 803 fics. Most common word written is ‘jingyan’ (n = 47,095).
