@@ -10,8 +10,8 @@ The manuscript, supplementary material, data and code for all papers are freely 
 <b>Model-based learning deficits  in compulsivity are linked to faulty representations of task structure.</b><br>
 <strong>Seow, T. X.F.</strong>, O'Connell, R. & Gillan, C. M. (in prep)
 
-<b>Carving out new transdiagnostic dimensions for research in mental health.</b><br>
-Gillan, C. M. and <strong>Seow, T. X.F.</strong>. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (in press)
+<b>[Carving out new transdiagnostic dimensions for research in mental health](http://seowxft.github.io/publications/2020-06-30-Carving-out-new-transdiagnostic-dimensions-for-research-in-mental health)</b><br>
+Gillan, C. M. & <strong>Seow, T. X.F.</strong>. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (in press)
 
 <b>[Transdiagnostic phenotyping reveals a host of metacognitive deficits implicated in compulsivity](http://seowxft.github.io/publications/2020-02-19-Transdiagnostic-phenotyping-reveals-a-host-of-metacognitive-deficits-implicated-in-compulsivity)</b><br>
 <strong>Seow, T. X.F.</strong> & Gillan, C. M. <i>Scientific Reports</i>, <strong>10</strong>(1), 1-11.
