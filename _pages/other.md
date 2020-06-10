@@ -9,4 +9,4 @@ author_profile: true
 [Code](https://github.com/seowxft/2048yujian) | [Play it here!](https://seowxft.github.io/2048yujian/) <br>
 
 ## Nirvana in Fire Ao3 Fanwork Statistics (Scraped June 2020)
-[Code](https://github.com/seowxft/NiFAO3Scrape) | [Stats Report](http://seowxft.github.io/other/nirvana-in-fire-stats.md) <br>
+[Code](https://github.com/seowxft/NiFAO3Scrape) | [Stats Report](http://seowxft.github.io/other/nirvana-in-fire-stats) <br>
