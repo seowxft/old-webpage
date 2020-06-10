@@ -13,7 +13,11 @@ redirect_from:
 [Download Tricia's Ph.D Thesis](http://seowxft.github.io/files/SeowXingFangTricia_theNeurocognitiveCorrelatesofCompulsivity.pdf)
 
 ## Education & Experience
-* <strong>2017 - present</strong>: Ph.D in Psychology<br>
+* <strong>2020 - present</strong>: Research Fellow<br>
+Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, United Kingdom<br>
+<i>Supervisor</i>: [Dr Tobias Hauser](https://devcompsy.org/)<br>
+
+* <strong>2017 - 2020</strong>: Ph.D in Psychology<br>
 School of Psychology, Trinity College Dublin, Ireland<br>
 <i>Thesis title</i>: The neurocognitive correlates of compulsivity<br>
 <i>Supervisor</i>: [Dr Claire Gillan](https://gillanlab.com/)<br>
