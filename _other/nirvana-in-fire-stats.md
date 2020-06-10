@@ -107,11 +107,12 @@ Top 4 most bookmarked fanworks are similar to the Top 4 most kudo-ed list, there
 </p>
 
 <strong>Fig 10.</strong> The most hits fanwork is [In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by <strong>katiirabbi</strong> at 32,656 hits.
+
 Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, the top 5-9 hits fanwork:
 1.	[In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by <strong>katiirabbi</strong> (Lin Shu/Jingyan; 32,656 hits)
 2.	[Ensnared]( https://archiveofourown.org/works/5552774) by <strong>Sychronergy</strong> (Lin Shu/Jingyan; 11,259 hits)
 3.	[For the rest of our lives](https://archiveofourown.org/works/13523304) by <strong>hyena1208</strong>, translated by <strong>wateroflife</strong> (Lin Shu/Jingyan; 9,616 hits)
-4.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by <strong>Alaceron (Lin Shu/Jingyan; 9,478 hits)
+4.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by <strong>Alaceron</strong> (Lin Shu/Jingyan; 9,478 hits)
 5.	[Lithograph](https://archiveofourown.org/works/10700544) by <strong>romantic_drift</strong> (Lin Shu/Jingyan; 8,986 hits)
 
 <br><br>
@@ -142,6 +143,7 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
 </p>
 <strong>Fig 14.</strong> The most popular tag is ‘Angst’ (N = 89).
 
+<br><br>
 # Word Cloud
 <strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 11 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. Additionally, podfic (N = 20), fanart (N = 49) and fanvid (N = 7) were excluded as only text-based fanworks are applicable. In total, N = 93 works were excluded, leaving N = 803 for text-based analysis.
 
@@ -150,3 +152,15 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
   <img src="http://seowxft.github.io/files/nifFigs/Rplot15.jpg" alt="Fig15"/>
 </p>
 <strong>Fig 15.</strong> Word cloud from N = 803 fics. Most common word written is ‘jingyan’ (n = 47,095).
+
+Top 10 most common words:
+1.	jingyan (n = 47,095)
+2.	lin (n = 33,916)
+3.	shu (n = 27,756)
+4.	changsu (n = 25,945)
+5.	mei (n = 23,757)
+6.	xiao (n = 19,749)
+7.	chen (n = 15,135)
+8.	one (n = 12,913)
+9.	prince (n = 12,335)
+10.	like (n = 12,248)
