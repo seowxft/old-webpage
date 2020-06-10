@@ -16,35 +16,35 @@ permalink: /other/nirvana-in-fire-stats
 
 <strong>Fig 1.</strong> The earliest fanwork recorded on AO3 is [<i>Could have, Would have, Should have</i> by <strong>Sychronergy</strong>](https://archiveofourown.org/works/5148068), published on 5th Nov 2015. The largest number of submissions of fanwork were in December, in 2017 (N = 68), 2019 (N = 59) and 2018 (N = 54). This is likely due to NiF Exchange and Yuletide events.
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot02.png" alt="Fig2"/>
 </p>
 
 <strong>Fig 2.</strong> 2017 stands as the year with the most number of fanwork published so far.
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot03.png" alt="Fig3"/>
 </p>
 
 <strong>Fig 3.</strong> Majority of the fanworks were marked as complete (N = 791), versus those that were left as to be updated (N = 88).
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot09.png" alt="Fig4"/>
 </p>
 
 <strong>Fig 4.</strong> Majority of the fanworks are categorised as gen (N = 402). Most common pairing is male/male (N = 392).
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot010.png" alt="Fig5"/>
 </p>
 
 <strong>Fig 5.</strong> Majority of the fanworks are rated as gen (N = 401).
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot04.png" alt="Fig6"/>
 </p>
@@ -58,7 +58,7 @@ Top 5 Longest fics:
 4.	[known, unknown](https://archiveofourown.org/works/14713827) by 潇湘水冷, translated by presume (Lin Shu/Jingyan; 92,472 words)
 5.	[a rose by any other name would smell as sweet](https://archiveofourown.org/works/14317086) by aozu (Jingyan/Zhanying; 91,819 words)
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot05.png" alt="Fig7"/>
 </p>
@@ -72,7 +72,7 @@ Top 5 most kudo-ed fanwork:
 4.	[Handfast](https://archiveofourown.org/works/13747836) by orphan_account (Lin Shu/Nihuang; 651 kudos)
 5.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by Alaceron (Lin Shu/Jingyan; 570 kudos)
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot06.png" alt="Fig8"/>
 </p>
@@ -86,7 +86,7 @@ Top 5 most commented fanwork:
 4.	[Ensnared]( https://archiveofourown.org/works/5552774) by Sychronergy (Lin Shu/Jingyan; 270 comments)
 5.	[Without Doubt](https://archiveofourown.org/works/10073657) by romantic_drift (Lin Shu/Jingyan; 235 comments)
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot07.png" alt="Fig9"/>
 </p>
@@ -100,7 +100,7 @@ Top 4 most bookmarked fanworks are similar to the Top 4 most kudo-ed list, there
 8.	[Even to the Edge](https://archiveofourown.org/works/10324157) by soera (Lin Shu/ Jingyan; 120 bookmarks)
 9.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by Alaceron (Lin Shu/Jingyan; 118 bookmarks)
 
-<br></br>
+<br><br>
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot08.png" alt="Fig10"/>
 </p>
@@ -113,36 +113,36 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
 4.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by Alaceron (Lin Shu/Jingyan; 9,478 hits)
 5.	[Lithograph](https://archiveofourown.org/works/10700544) by romantic_drift (Lin Shu/Jingyan; 8,986 hits)
 
-<br></br>
+<br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot011.png" alt="Fig11"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot11.png" alt="Fig11"/>
 </p>
 
 <strong>Fig 11.</strong> The most popular tagged romantic pairing is Lin Shu/Xiao Jingyan (N = 356).
 
-<br></br>
+<br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot012.png" alt="Fig12"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot12.png" alt="Fig12"/>
 </p>
 
 <strong>Fig 12.</strong> The most popular tagged gen pairing is Lin Shu & Xiao Jingyan (N = 43).
 
 
-<br></br>
+<br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot013.png" alt="Fig13"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot13.png" alt="Fig13"/>
 </p>
 
 <strong>Fig 13.</strong> The most popular tagged character is Lin Shu (N = 637).
 
-<br></br>
+<br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot014.png" alt="Fig14"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot14.png" alt="Fig14"/>
 </p>
 <strong>Fig 14.</strong> The most popular tag is ‘Angst’ (N = 89).
 
-<br></br>
+<br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot015.jpg" alt="Fig15"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot15.jpg" alt="Fig15"/>
 </p>
 Fig 15. Word cloud from N = 803 fics. Most common word written is ‘jingyan’ (n = 47,095).
