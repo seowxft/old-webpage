@@ -68,7 +68,7 @@ Top 5 Longest fics:
 
 Top 5 most kudo-ed fanwork:
 1.	[In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by <strong>katiirabbi</strong> (Lin Shu/Jingyan; 1,101 kudos)
-2.	[Accustomed To Disguise](https://archiveofourown.org/works/13100499) by <strong>orphan_account</strong> (Lin Shu/Jingyan; 998 words)
+2.	[Accustomed To Disguise](https://archiveofourown.org/works/13100499) by <strong>orphan_account</strong> (Lin Shu/Jingyan; 998 kudos)
 3.	[Lithograph](https://archiveofourown.org/works/10700544) by <strong>romantic_drift</strong> (Lin Shu/Jingyan; 701 kudos)
 4.	[Handfast](https://archiveofourown.org/works/13747836) by <strong>orphan_account</strong> (Lin Shu/Nihuang; 651 kudos)
 5.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by <strong>Alaceron</strong> (Lin Shu/Jingyan; 570 kudos)
@@ -81,7 +81,7 @@ Top 5 most kudo-ed fanwork:
 <strong>Fig 8.</strong> The most commented fanwork is [In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by <strong>katiirabbi</strong> at 983 comments.
 
 Top 5 most commented fanwork:
-1.	[In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by katiirabbi (Lin Shu/Jingyan; 1,101 kudos)
+1.	[In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by katiirabbi (Lin Shu/Jingyan; 983 comments)
 2.	[Ever Onward](https://archiveofourown.org/works/16021301) by <strong>aboxthecolourofheartache</strong> (Lin Chen & Lin Shu; 622 comments)
 3.	[For the rest of our lives](https://archiveofourown.org/works/13523304) by <strong>hyena1208</strong>, translated by <strong>wateroflife</strong> (Lin Shu/Jingyan; 294 comments)
 4.	[Ensnared]( https://archiveofourown.org/works/5552774) by <strong>Sychronergy</strong> (Lin Shu/Jingyan; 270 comments)
