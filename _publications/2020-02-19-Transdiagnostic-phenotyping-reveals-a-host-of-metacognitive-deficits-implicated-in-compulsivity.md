@@ -7,7 +7,7 @@ venue: 'Scientific Reports'
 citation: '<strong>Seow, T. X.F.</strong> & Gillan, C. M. (2020). Transdiagnostic phenotyping reveals a host of metacognitive deficits implicated in compulsivity. <i>Scientific Reports</i>, <strong>10</strong>(1), 1-11.'
 ---
 
-[Doi](https://doi.org/10.1038/s41598-020-59646-4) / [Pdf](http://seowxft.github.io/files/2020-02-19-Transdiagnostic-phenotyping-reveals-a-host-of-metacognitive-deficits-implicated-in-compulsivity.pdf) / [Supplementary Material](http://seowxft.github.io/files/2020-02-19-Transdiagnostic-phenotyping-supplementary.pdf) / [Data & Code](https://osf.io/2z6tw/)
+[Doi](https://doi.org/10.1038/s41598-020-59646-4) / [Pdf](http://seowxft.github.io/files/2020-02-19-Transdiagnostic-phenotyping-reveals-a-host-of-metacognitive-deficits-implicated-in-compulsivity.pdf) / [Supplementary Material](http://seowxft.github.io/files/2020-02-19-Transdiagnostic-phenotyping-supplementary.pdf) / [Data & Code](https://osf.io/2z6tw/) / [Task Code](https://github.com/seowxft/predictive-inference-task)
 
 
 ## Abstract
