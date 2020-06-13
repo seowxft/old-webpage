@@ -7,8 +7,8 @@ author_profile: true
 The manuscript, supplementary material, data and code for all papers are freely available in their respective links:
 
 ## 2020
-<b>Model-based learning deficits  in compulsivity are linked to faulty representations of task structure.</b><br>
-<strong>Seow, T. X.F.</strong>, O'Connell, R. & Gillan, C. M. (in prep)
+<b>[Model-based learning deficits  in compulsivity are linked to faulty representations of task structure](http://seowxft.github.io/publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure)</b><br>
+<strong>Seow, T. X.F.</strong>, O'Connell, R. & Gillan, C. M. <i>BioRxiv</i>.
 
 <b>[Carving out new transdiagnostic dimensions for research in mental health](http://seowxft.github.io/publications/2020-06-30-Carving-out-new-transdiagnostic-dimensions-for-research-in-mental health)</b><br>
 Gillan, C. M. & <strong>Seow, T. X.F.</strong>. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (in press)

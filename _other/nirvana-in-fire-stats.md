@@ -45,7 +45,16 @@ permalink: /other/nirvana-in-fire-stats
 
 <strong>Fig 5.</strong> Majority of the fanworks were rated as gen (N = 401).
 
-<br><br>
+# Author Rankings
+Top 5 most prolific authors:
+1. [orangememory](https://archiveofourown.org/users/orangememory) (N = 48)
+2. [aozu](https://archiveofourown.org/users/aozu) (N = 44)
+3. [ConvenientAlias](https://archiveofourown.org/users/ConvenientAlias) (N = 39)
+4. [ancient_moonshine](https://archiveofourown.org/users/ancient_moonshine) (N = 33)
+5. [nanasheeeh](https://archiveofourown.org/users/nanasheeeh) (N = 33)
+
+
+## Fanwork Rankings
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot6.png" alt="Fig6"/>
 </p>
@@ -61,7 +70,7 @@ Top 5 Longest fics:
 
 <br><br>
 <p align="center">
-  <img src="http://seowxft.github.io/files/nifFigs/Rplot05.png" alt="Fig7"/>
+  <img src="http://seowxft.github.io/files/nifFigs/Rplot7.png" alt="Fig7"/>
 </p>
 
 <strong>Fig 7.</strong> The most kudo-ed fanwork is [In Time, Once Again](https://archiveofourown.org/works/6086905) by <strong>擂文</strong>, translated by <strong>katiirabbi</strong> at 1,101 kudos.
@@ -115,7 +124,7 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
 4.	[the very first words of a lifelong love letter](https://archiveofourown.org/works/6784552) by <strong>Alaceron</strong> (Lin Shu/Jingyan; 9,478 hits)
 5.	[Lithograph](https://archiveofourown.org/works/10700544) by <strong>romantic_drift</strong> (Lin Shu/Jingyan; 8,986 hits)
 
-<br><br>
+## Pairing/Character/Tag Rankings
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot11.png" alt="Fig11"/>
 </p>
@@ -142,16 +151,6 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
   <img src="http://seowxft.github.io/files/nifFigs/Rplot14.png" alt="Fig14"/>
 </p>
 <strong>Fig 14.</strong> The most popular tag is ‘Angst’ (N = 89).
-
-<br><br>
-# Author Rankings
-Top 5 most prolific authors:
-1. [orangememory](https://archiveofourown.org/users/orangememory) (N = 48)
-2. [aozu](https://archiveofourown.org/users/aozu) (N = 44)
-3. [ConvenientAlias](https://archiveofourown.org/users/ConvenientAlias) (N = 39)
-4. [ancient_moonshine](https://archiveofourown.org/users/ancient_moonshine) (N = 33)
-5. [nanasheeeh](https://archiveofourown.org/users/nanasheeeh) (N = 33)
-<br><br>
 
 # Word Cloud
 <strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 11 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. Additionally, podfic (N = 20), fanart (N = 49) and fanvid (N = 7) were excluded as only text-based fanworks are applicable. In total, N = 93 works were excluded, leaving N = 803 for text-based analysis.
