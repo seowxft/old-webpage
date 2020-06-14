@@ -9,7 +9,7 @@ permalink: /other/nirvana-in-fire-stats
 <a href ="https://archiveofourown.org/tags/%E7%90%85%E7%90%8A%E6%A6%9C%20%7C%20Nirvana%20in%20Fire%20(TV)/works/">琅琊榜 | Nirvana in Fire (TV)</a> data were scraped from [Archive of Our Own](https://archiveofourown.org), filtered by language = English, on <strong>8 June 2020</strong>. Only unlocked works were available for scraping.
 
 # General Stats
-<strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 12 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. In total, N = 17 works were excluded, leaving N = 878 for analysis.
+<strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 12 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. In total, N = 18 works were excluded, leaving N = 878 for analysis.
 
 <p align="center">
   <img src="http://seowxft.github.io/files/nifFigs/Rplot1.png" alt="Fig1"/>
