@@ -156,7 +156,7 @@ Top 4 most hits fanworks are similar to the Top 4 most kudo-ed list, therefore, 
 
 <br><br>
 # Word Cloud
-<strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 12 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. Additionally, podfic (N = 20), fanart (N = 49) and fanvid (N = 7) were excluded as only text-based fanworks are applicable. In total, N = 93 works were excluded, leaving N = 802 for text-based analysis.
+<strong>Data exclusions.</strong> N = 896 works were scraped. Exclusion criteria were as follows: 1) N = 12 works were Chinese works mislabelled as English, 2) N = 3 works were large, multi-fandom drabble collections and 3) N = 3 were unrelated works. Additionally, podfic (N = 20), fanart (N = 49) and fanvid (N = 7) were excluded as only text-based fanworks are applicable. In total, N = 94 works were excluded, leaving N = 802 for text-based analysis.
 
 <br><br>
 <p align="center">
