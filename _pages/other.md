@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Other Projects"
+title: "Other (Fun) Projects"
 permalink: /other/
 author_profile: true
 ---
