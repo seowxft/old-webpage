@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2020
 
-<strong> Talk</strong>: Computational Psychiatry Seminar, Max lanck UCL, London, UK <br>
+<strong> Talk</strong>: Computational Psychiatry Seminar, Max Planck UCL, London, UK <br>
 
 ## 2019
 
