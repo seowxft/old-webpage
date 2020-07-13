@@ -4,7 +4,7 @@ collection: talks
 <!-- type: "Talk" -->
 permalink: /talks/2020-07-09-The-neurocognitive-correlates-of-compulsivity
 venue: "Max Planck UCL"
-date: 2019-04-12
+date: 2020-07-09
 location: "London, UK"
 ---
 
