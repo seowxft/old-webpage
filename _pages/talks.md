@@ -7,7 +7,8 @@ author_profile: true
 
 ## 2020
 
-<strong> Talk</strong>: Computational Psychiatry Seminar, Max Planck UCL, London, UK <br>
+<strong> Talk</strong>: [Computational Psychiatry Seminar, Max Planck UCL, London, UK](http://seowxft.github.io/talks/2020-07-09-The-neurocognitive-correlates-of-compulsivity) <br>
+<strong> Talk</strong>: PhD Viva, Trinity College Dublin, Dublin, Ireland <br>
 
 ## 2019
 
