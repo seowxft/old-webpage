@@ -1,0 +1,14 @@
+---
+title: "A dimensional study of error related negativity ERN and self reported psychiatric symptoms"
+collection: publications
+permalink: /publications/2020-10-17-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms
+date: 2020-10-17
+venue: "International Journal of Psychophysiology"
+citation: "<strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., McDonough, M., & Gillan., C. M. (2019). A dimensional investigation of error related negativity ERN and self reported psychiatric symptoms. <i>International Journal of Psychophysiology</i>, 158, 340-348."
+---
+
+[Doi](https://doi.org/10.1101/732594) / [Pdf](http://seowxft.github.io/files/2020-10-17-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms.pdf) / [Supplementary Material](http://seowxft.github.io/files/2020-10-17-A-dimensional-supplementary.pdf) / [Data & Code](https://osf.io/vjda6/) / [Preprint](https://doi.org/10.1101/732594)
+
+## Abstract
+
+Alterations in error processing are implicated in a range of DSM-defined psychiatric disorders. For instance, obsessive-compulsive disorder (OCD) and generalised anxiety disorder show enhanced electrophysiological responses to errors—i.e. error-related negativity (ERN)—while others like schizophrenia have an attenuated ERN. However, as diagnostic categories in psychiatry are heterogeneous and also highly intercorrelated, the precise mapping of ERN enhancements/impairments is unclear. To address this, we recorded electroencephalograms (EEG) from 196 participants who performed the Flanker task and collected scores on 9 questionnaires assessing psychiatric symptoms to test if a dimensional framework could reveal specific transdiagnostic clinical manifestations of error processing dysfunctions. Contrary to our hypothesis, we found non-significant associations between ERN amplitude and symptom severity of OCD, trait anxiety, depression, social anxiety, impulsivity, eating disorders, alcohol addiction, schizotypy and apathy. A transdiagnostic approach did nothing to improve signal; there were non-significant associations between all three transdiagnostic dimensions (anxious-depression, compulsive behaviour and intrusive thought, and social withdrawal) and ERN magnitude. In these same individuals, we replicated a previously published transdiagnostic association between goal-directed learning and compulsive behaviour and intrusive thought. Possible explanations discussed are (i) that associations between the ERN and psychopathology might be smaller than previously assumed, (ii) that these associations might depend on a greater level of symptom severity than other transdiagnostic cognitive biomarkers, or (iii) that task parameters, such as the ratio of compatible to incompatible trials, might be crucial for ensuring the sensitivity of the ERN to clinical phenomena.
