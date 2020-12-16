@@ -1,5 +1,5 @@
 ---
-title: "A dimensional study of error related negativity ERN and self reported psychiatric symptoms"
+title: "A dimensional investigation of error related negativity ERN and self reported psychiatric symptoms"
 collection: publications
 permalink: /publications/2020-10-17-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms
 date: 2020-10-17
@@ -7,7 +7,7 @@ venue: "International Journal of Psychophysiology"
 citation: "<strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., McDonough, M., & Gillan., C. M. (2019). A dimensional investigation of error related negativity ERN and self reported psychiatric symptoms. <i>International Journal of Psychophysiology</i>, 158, 340-348."
 ---
 
-[Doi](https://doi.org/10.1101/732594) / [Pdf](http://seowxft.github.io/files/2020-10-17-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms.pdf) / [Supplementary Material](http://seowxft.github.io/files/2020-10-17-A-dimensional-supplementary.pdf) / [Data & Code](https://osf.io/vjda6/) / [Preprint](https://doi.org/10.1101/732594)
+[Doi](https://doi.org/10.1016/j.ijpsycho.2020.09.019) / [Pdf](http://seowxft.github.io/files/2020-10-17-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms.pdf) / [Supplementary Material](http://seowxft.github.io/files/2020-10-17-A-dimensional-supplementary.pdf) / [Data & Code](https://osf.io/vjda6/) / [Preprint](https://doi.org/10.1101/732594)
 
 ## Abstract
 
