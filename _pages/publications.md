@@ -7,6 +7,11 @@ author_profile: true
 
 The manuscript, supplementary material, data and code for all papers are freely available in their respective links:
 
+## 2021
+
+<b>[Reliability of web-based affective auditory stimulus presentation](http://seowxft.github.io/publications/2021-02-08-Reliability-of-web-based-auditory-stimulus-presentation)</b><br>
+<strong>Seow, T. X.F.</strong> & Hauser, T. U. <i>BioRxiv</i>.
+
 ## 2020
 
 <b>[Model-based learning deficits in compulsivity are linked to faulty representations of task structure](http://seowxft.github.io/publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure)</b><br>
