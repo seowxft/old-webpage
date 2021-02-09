@@ -8,15 +8,11 @@ main:
 
   - title: "Talks"
     url: /talks/
-
-  - title: "Other"
-    url: /other/
-
+  # - title: "Other"
+  #   url: /other/
   # - title: "Portfolio"
   #   url: /portfolio/
-
   # - title: "Blog Posts"
   #   url: /year-archive/
-
   # - title: "Guide"
   #   url: /markdown/
