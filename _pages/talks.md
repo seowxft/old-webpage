@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2021
+
+<strong> Talk</strong> (upcoming): [British Association for Psychopharmacology 2021, Online Meeting](http://seowxft.github.io/talks/2021-07-19-EEG-correlates-of-reduced-model-based) <br>
+<strong> Poster</strong> (upcoming): Symposium on Biology of Decision-Making 2021, Paris, France<br>
+
 ## 2020
 
 <strong> Talk</strong>: [Computational Psychiatry Seminar, Max Planck UCL, London, UK](http://seowxft.github.io/talks/2020-07-09-The-neurocognitive-correlates-of-compulsivity) <br>
