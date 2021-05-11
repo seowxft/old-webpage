@@ -9,13 +9,13 @@ The manuscript, supplementary material, data and code for all papers are freely 
 
 ## 2021
 
+<b>[Model-based learning deficits in compulsivity are linked to faulty representations of task structure](http://seowxft.github.io/publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure)</b><br>
+<strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., O'Connell, R. & Gillan, C. M. <i>The Journal of Neuroscience</i>. (accepted)
+
 <b>[Reliability of web-based affective auditory stimulus presentation](http://seowxft.github.io/publications/2021-02-08-Reliability-of-web-based-auditory-stimulus-presentation)</b><br>
 <strong>Seow, T. X.F.</strong> & Hauser, T. U. <i>BioRxiv</i>.
 
 ## 2020
-
-<b>[Model-based learning deficits in compulsivity are linked to faulty representations of task structure](http://seowxft.github.io/publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure)</b><br>
-<strong>Seow, T. X.F.</strong>, O'Connell, R. & Gillan, C. M. <i>BioRxiv</i>.
 
 <b>[A dimensional investigation of error-related negativity (ERN) and self-reported psychiatric symptoms](http://seowxft.github.io/publications/2020-10-17-A-dimensional-study-of-error-related-negativity-ERN-and-self-reported-psychiatric-symptoms)</b><br>
 <strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., McDonough, M., & Gillan., C. M. <i>International Journal of Psychophysiology</i>, 158, 340-348.

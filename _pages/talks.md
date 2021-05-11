@@ -8,7 +8,7 @@ author_profile: true
 ## 2021
 
 <strong> Invited Talk</strong> (upcoming): [British Association for Psychopharmacology 2021, Online Meeting](http://seowxft.github.io/talks/2021-07-19-EEG-correlates-of-reduced-model-based) <br>
-<strong> Poster</strong> (upcoming): Symposium on Biology of Decision-Making 2021, Paris, France<br>
+<strong> Poster</strong>: Symposium on Biology of Decision-Making 2021, Paris, France (Online)<br>
 
 ## 2020
 

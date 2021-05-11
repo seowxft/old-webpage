@@ -3,11 +3,11 @@ title: "Model-based learning deficits in compulsivity are linked to faulty repre
 collection: publications
 permalink: /publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure
 date: 2020-06-13
-venue: "BioRxiv"
-citation: "<strong>Seow, T. X.F.</strong>, O'Connell, R.  Gillan, C. M. (2020). Model-based learning deficits in compulsivity are linked to faulty representations of task structure. <i>BioRxiv</i>."
+venue: "The Journal of Neuroscience"
+citation: "<strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., O'Connell, R.  Gillan, C. M. (2020). Model-based learning deficits in compulsivity are linked to faulty representations of task structure. <i>The Journal of Neuroscience</i>. (accepted)"
 ---
 
-[Doi](https://doi.org/10.1101/2020.06.11.147447) / [Data & Code](https://osf.io/mx9kf/)
+[BioRxiv](https://doi.org/10.1101/2020.06.11.147447) / [Data & Code](https://osf.io/mx9kf/)
 
 ## Abstract
 
