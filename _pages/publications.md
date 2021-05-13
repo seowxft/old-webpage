@@ -9,6 +9,9 @@ The manuscript, supplementary material, data and code for all papers are freely 
 
 ## 2021
 
+<b>[How local and global metacognition shape mental health](http://seowxft.github.io/publications/2021-05-13-How-local-and-global-metacognition-shape-mental-health)</b><br>
+<strong>Seow, T. X.F.</strong>\*, Rouault, M.\*, Gillan, C. M., & Fleming, S. M. <i>Biological Psychiatry</i>. (accepted)
+
 <b>[Model-based learning deficits in compulsivity are linked to faulty representations of task structure](http://seowxft.github.io/publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure)</b><br>
 <strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., O'Connell, R. & Gillan, C. M. <i>The Journal of Neuroscience</i>. (accepted)
 
@@ -37,11 +40,11 @@ Rahnev, D., et al...includ. <strong>Seow, T. X.F.</strong> <i>Nature Human Behav
 ## 2018
 
 <b>[Psychiatric symptom dimensions are associated with dissociable shifts in metacognition but not task performance](http://seowxft.github.io/publications/2018-10-15-Psychiatric-symptom-dimensions-are-associated-with-dissociable-shifts-in-metacognition-but-not-task-performance)</b><br>
-Rouault, M.\*, <strong>Seow, T.</strong>\*, Gillan, C. M., & Fleming, S. M. <i>Biological psychiatry</i>, <strong>84</strong>(6), 443-451.
+Rouault, M.\*, <strong>Seow, T.</strong>\*, Gillan, C. M., & Fleming, S. M. <i>Biological Psychiatry</i>, <strong>84</strong>(6), 443-451.
 
 ## 2016
 
 <b>[Stimulus novelty energizes actions in the absence of explicit reward](http://seowxft.github.io/publications/2016-07-14-Stimulus-novelty-energizes-actions-in-the-absence-of-explicit-reward)</b><br>
-Koster, R., <strong>Seow, T. X.</strong>, Dolan, R. J., & Düzel, E. <i>PloS one</i>, <strong>11</strong>(7).
+Koster, R., <strong>Seow, T. X.</strong>, Dolan, R. J., & Düzel, E. <i>PloS One</i>, <strong>11</strong>(7).
 
 [\* denotes equal contribution]
