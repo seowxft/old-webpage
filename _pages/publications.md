@@ -9,14 +9,14 @@ The manuscript, supplementary material, data and code for all papers are freely 
 
 ## 2021
 
-<b>[How local and global metacognition shape mental health](http://seowxft.github.io/publications/2021-05-13-How-local-and-global-metacognition-shape-mental-health)</b><br>
-<strong>Seow, T. X.F.</strong>\*, Rouault, M.\*, Gillan, C. M., & Fleming, S. M. <i>Biological Psychiatry</i>. (accepted)
+<b>[Reliability of web-based affective auditory stimulus presentation](http://seowxft.github.io/publications/2021-02-08-Reliability-of-web-based-auditory-stimulus-presentation)</b><br>
+<strong>Seow, T. X.F.</strong> & Hauser, T. U. <i>Behavior Research Methods</i>. (accepted)
 
 <b>[Model-based learning deficits in compulsivity are linked to faulty representations of task structure](http://seowxft.github.io/publications/2020-06-12-Modelbased-deficits-in-compulsivity-are-linked-to-faulty-representations-of-task-structure)</b><br>
 <strong>Seow, T. X.F.</strong>, Benoit, E., Dempsey, C., Jennings, M., Maxwell, A., O'Connell, R. & Gillan, C. M. <i>The Journal of Neuroscience</i>. (accepted)
 
-<b>[Reliability of web-based affective auditory stimulus presentation](http://seowxft.github.io/publications/2021-02-08-Reliability-of-web-based-auditory-stimulus-presentation)</b><br>
-<strong>Seow, T. X.F.</strong> & Hauser, T. U. <i>BioRxiv</i>.
+<b>[How local and global metacognition shape mental health](http://seowxft.github.io/publications/2021-05-24-How-local-and-global-metacognition-shape-mental-health)</b><br>
+<strong>Seow, T. X.F.</strong>\*, Rouault, M.\*, Gillan, C. M., & Fleming, S. M. <i>Biological Psychiatry</i>. (in press)
 
 ## 2020
 

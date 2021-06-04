@@ -3,8 +3,8 @@ title: "Reliability of web-based affective auditory stimulus presentation"
 collection: publications
 permalink: /publications/2021-02-08-Reliability-of-web-based-auditory-stimulus-presentation
 date: 2021-02-08
-venue: "BioRxiv"
-citation: "<strong>Seow, T. X.F.</strong> & Hauser, T. U. (2019). Reliability of web-based affective auditory stimulus presentation. <i>bioRxiv</i>."
+venue: "Behavior Research Methods"
+citation: "<strong>Seow, T. X.F.</strong> & Hauser, T. U. (2019). Reliability of web-based affective auditory stimulus presentation. <i>Behavior Research Methods</i> (accepted)."
 ---
 
 [Preprint](https://doi.org/10.1101/2021.02.08.430267) / [Pdf](http://seowxft.github.io/files/2021-02-08-Reliability-of-web-based-auditory-stimulus-presentation.pdf) / [Supplementary Material 1](http://seowxft.github.io/files/2021-02-08-Reliability-of-web-based-supplementary1.pdf) / [Supplementary Material 2](http://seowxft.github.io/files/2021-02-08-Reliability-of-web-based-supplementary2.xlsx) / [Data & Analysis code](https://github.com/seowxft/audio-pilot-analysis) / [Task Code](https://github.com/seowxft/audio-pilot)

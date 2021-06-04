@@ -1,11 +1,13 @@
 ---
 title: "How local and global metacognition shape mental health"
 collection: publications
-permalink: /publications/2021-05-13-How-local-and-global-metacognition-shape-mental-health
-date: 2021-05-13
+permalink: /publications/2021-05-24-How-local-and-global-metacognition-shape-mental-health
+date: 2021-05-24
 venue: "Biological Psychiatry"
-citation: "<strong>Seow, T. X.F.</strong>*, Rouault, M.*, Gillan, C. M., & Fleming, S. M. (2021). How local and global metacognition shape mental health. <i>Biological Psychiatry</i> (accepted)."
+citation: "<strong>Seow, T. X.F.</strong>*, Rouault, M.*, Gillan, C. M., & Fleming, S. M. (2021). How local and global metacognition shape mental health. <i>Biological Psychiatry</i> (in press)."
 ---
+
+[Doi](https://doi.org/10.1016/j.biopsych.2021.05.013)
 
 ## Abstract
 
